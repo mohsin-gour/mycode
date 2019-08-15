@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 $con=mysqli_connect('localhost','root','','mydb')
 or die('database not connected'.mysqli_error());
 $d=$_GET['distid'];
@@ -36,4 +36,4 @@ if(!empty($d))
 <body><div>this is a paragaraph which is fetched from ajax form</div>
 
 </body>
-</html>
+</html> -->
